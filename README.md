@@ -14,8 +14,8 @@ I develop and manage a fleet of service-oriented platforms, focusing on lead gen
 
 * **[Snirgo](https://snirgo.co.il)** – Advanced platform for home services.
 * **[Cobra Pest Control](https://cobra1.co.il)** – Professional pest control solutions.
-* **[Doctor Polish](https://cleans.co.il)** – Premium floor polishing and cleaning services.
-* **[Shlif](https://cln.co.il)** – Specialized cleaning and restoration services.
+* **[cleans](https://cleans.co.il)** – Premium floor polishing and cleaning services.
+* **[Doctor Polish](https://cln.co.il)** – Specialized cleaning and restoration services.
 * **[Polish 7](https://polish7.co.il)** – Professional polishing services.
 * **[PPolish](https://www.ppolish.co.il)** – High-end cleaning and maintenance.
 
